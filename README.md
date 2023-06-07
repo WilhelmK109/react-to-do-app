@@ -89,9 +89,8 @@ Clone this repository to your desired folder by running the below command in you
 
 ### Install
 
-Install this project with:
+Install this project with: npm install
 
-- This project does not require installation.
 
 ### Usage
 
